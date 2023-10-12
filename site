@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
+
+<h1>About Me</h1>
+<h2>My name is Maria Lukowiak and I am 18 years old. I have lived in Rochester my whole life and attended BHS. Although I am an SE major, my true love is language, specifically slavic and latin derived languages. I love to laugh with my friends and paint my nails.</h2>
+
+<img src="fruit.jpg" alt="Fruit" width="500" height="333">
+
+<h3>What I Want to Learn<h3>
+<ul>
+    <li>What an SE major does</li>
+    <li>Job prospects</li>
+    <li>How to balance with such a screen heavy major</li>
+    <li>How to communicate in groups</li>
+</ul>
+
+<p><a href="http://www.se.rit.edu/~swen-101">Visit the SE website</a></p>
+
+</body>
+</html>
